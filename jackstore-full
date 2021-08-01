@@ -835,25 +835,226 @@ https://iptv-3palxl87i-mwafa.vercel.app/api/vidio?id=7216
 
 
 
-#EXTINF:-1, group-title="Singapore", (SG) Vasantham
+#EXTINF:-1, group-title="SINGAPORE", (SG) Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 
-#EXTINF:-1, group-title="Singapore", (SG) Suria
+#EXTINF:-1, group-title="SINGAPORE", (SG) Suria
 http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
 
-#EXTINF:-1, group-title="Singapore", (SG) Channel U
+#EXTINF:-1, group-title="SINGAPORE", (SG) Channel U
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 
-#EXTINF:-1, group-title="Singapore", (SG) Channel 5
+#EXTINF:-1, group-title="SINGAPORE", (SG) Channel 5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 
-#EXTINF:-1, group-title="Singapore", (SG) Channel 8
+#EXTINF:-1, group-title="SINGAPORE", (SG) Channel 8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 
 
 
 
 
+
+#EXTM3U
+
+##group-title="Tokyo 2020 Olympics"##
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 2
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 4 SD
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",beIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo"",bein 3
+http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", RTM Olympic01
+https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Astro OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",RTM Sports
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/146
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Arena
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 6 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 7 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 8 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 9 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 10 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 11 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 12 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",unifi Sports 13 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", Sony Ten 1 HD
+http://185.180.15.14:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", Sony Ten 2 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", Sony Ten 3 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", Sony Six HD
+http://185.180.15.13:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token==RED
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",sporTV
+http://199.127.62.234:2082/streams/70_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo", Sportv
+http://199.127.62.234:2082/streams/71_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",USA Network
+http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",US: NBC FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18197
+
+#EXTINF:-1 tvg-id="NBCSportsNorthwest.us" tvg-name="USA-NBC Sports (M)(720)" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png" group-title="USA-SPORTS",USA-NBC Sports (M)(720)
+http://tv.mediaxyz1.com:25461/deleoneric919/ZWINzCzxAa/101689
+
+#EXTINF:-1 tvg-id="OlympicChannel.us" tvg-name="USA-Olympic (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-0Q0Az5JIZP4/XzQoEqH15wI/AAAAAAAAA1o/dmkqPTfzdwQqLy7at98liMAxBtAh6IhLACLcBGAsYHQ/w200-h200/114%2BOlimpic.png" group-title="USA-SPORTS",USA-Olympic (PM)(720)
+http://tv.mediaxyz1.com:25461/deleoneric919/ZWINzCzxAa/65423
+#EXTINF:-1 tvg-id="OlympicChannel.us" tvg-name="USA-Olympic Channel (O)(720)" tvg-logo="https://1.bp.blogspot.com/-0Q0Az5JIZP4/XzQoEqH15wI/AAAAAAAAA1o/dmkqPTfzdwQqLy7at98liMAxBtAh6IhLACLcBGAsYHQ/w200-h200/114%2BOlimpic.png" group-title="USA-SPORTS",USA-Olympic Channel (O)(720)
+http://tv.mediaxyz1.com:25461/deleoneric919/ZWINzCzxAa/3111
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",eurosport 1
+http://149.62.177.149:1980/play/a034
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Eurosport 1
+http://185.97.150.19:8082/634
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Eurosport 2
+http://185.97.150.19:8082/635
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",eurosport 1
+http://212.224.98.207:2200/EX/eurosport1hd-ru/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",eurosport 2
+http://212.224.98.207:2200/EX/eurosport2hd-ru/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",GMM25
+http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_w2135572054.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",RTVE
+http://91.126.141.13:1935/live/41/1800-def.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",NHK General TV
+https://nhk.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Fuji TV
+https://fujitv.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",NHK BSP HD
+http://redlabmcdn.s.llnwi.net/jp04/bs02hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",MBC
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=0MENK2CJI5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",SBS
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=0MENK2CJI5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",KBS 1TV
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=SD&apikey=0MENK2CJI5
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",INDOSIAR
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/36
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJldmVudC0xMi1kYXNoLWVuY3J5cHRlZCIsInRva2VuIjoiWVBFMnQ5QUNoaFV6SXFOVHNaQWcxcThlb3BaSGw1ZnQ0bG9obS9GQW9ySDYyRW00aXYvbXlKcnkwUW9XL2tCaTlFbjZjVkRDK3VTcnAxWVVJUUdNQ1g4bWx5cFNyOTFqVEo2T3IyOWZxK009IiwidGltZXN0YW1wIjoiMjAyMS0wNy0yNFQwNzozMDo1N1oiLCJoYXNoIjoiM2JvZ0drSGVnRzAycTN3MDVEM0I2d3VQSE1RWUV4bFpvelhOT2ZHeUttUT0ifQ==
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dsemK_c2tQXOiPr-zLt0IXpBQ9Y=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7847/8f1ed0.jpg" group-title="VIDIO", CTV12
+https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJldmVudC0xMy1kYXNoLWVuY3J5cHRlZC1uZXciLCJ0b2tlbiI6IllQRTJ0OUFDaGhVeklxTlRzWkFnMXE4ZW9wWkhsNWZ0NGxvaG0vRkFvckg2MkVtNGl2L215SnJ5MFFvVy9rQmk5RW42Y1ZEQyt1U3JwMVlVSVFHTUNYOG1seXBTcjkxalRKNk9yMjlmcStNPSIsInRpbWVzdGFtcCI6IjIwMjEtMDctMjRUMDc6MzE6MTVaIiwiaGFzaCI6IkdNR2dMM3FSVWNSMzVkN0VzY1dOdjdNV0lhaWtUQ1U0cGorUUJDeXM5aFU9In0=
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yPUE6XRLTKSdSQ-iBRb4mT-O7WQ=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7848/58e29e.jpg" group-title="VIDIO", CTV13
+https://production-drm-vidio-com-event-13.akamaized.net/out/v1/b62adc32200a48f8b112a7cc52b9bff8/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJldmVudC0xNC1kYXNoLWVuY3J5cHRlZCIsInRva2VuIjoiWVBFMnQ5QUNoaFV6SXFOVHNaQWcxcThlb3BaSGw1ZnQ0bG9obS9GQW9ySDYyRW00aXYvbXlKcnkwUW9XL2tCaTlFbjZjVkRDK3VTcnAxWVVJUUdNQ1g4bWx5cFNyOTFqVEo2T3IyOWZxK009IiwidGltZXN0YW1wIjoiMjAyMS0wNy0yNFQwNzozMzoyOFoiLCJoYXNoIjoiWmlsMVFIT1NIUVFmOGpDSE1aTTljRWtNWXZmeE9WVkhUL1BFTUg3N3pOWT0ifQ==
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WA-IAtHpYAZoIjngDUKuh8yxFEI=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7849/6178fd.jpg" group-title="VIDIO", CTV14
+https://production-drm-vidio-com-event-14.akamaized.net/out/v1/88c33cc42b3b4313a13be94c3992978f/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJldmVudC0xNS1kYXNoLWVuY3J5cHRlZCIsInRva2VuIjoiWVBFMnQ5QUNoaFV6SXFOVHNaQWcxcThlb3BaSGw1ZnQ0bG9obS9GQW9ySDYyRW00aXYvbXlKcnkwUW9XL2tCaTlFbjZjVkRDK3VTcnAxWVVJUUdNQ1g4bWx5cFNyOTFqVEo2T3IyOWZxK009IiwidGltZXN0YW1wIjoiMjAyMS0wNy0yNFQwNzozMzoyNVoiLCJoYXNoIjoiSXk4bm0vSmwxclRIeWxjUkJKT0hhOHpBQWgvWEhYY0VZSUx3M08rTlMzOD0ifQ==
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YE6n4DaZJt2BXUcVOL3EUSgMf3o=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7850/97b667.jpg" group-title="VIDIO", CTV15
+https://production-drm-vidio-com-event-15.akamaized.net/out/v1/e6cf9fcf86394f88925695ccd7315bcd/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 2
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 3
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 4
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/321
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 5
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/322
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 6
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/323
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 7
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/325
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 9
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/326
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 10
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/327
 
 
 
