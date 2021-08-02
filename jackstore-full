@@ -37,7 +37,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria CH104
 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1105" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg", Astro Prima CH105
 
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -46,19 +46,16 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1107" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png", Astro Warna CH107
 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1108" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg", Astro Citra CH108
 
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1611" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg", Astro Ceria CH611
 
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF: -1  group-title="ASTRO" tvg-id="1109" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png", Naura HD CH109
-
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1112" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png", Astro Rania CH112
 
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891752
+http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1113" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png", Astro Naura CH113
 
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
