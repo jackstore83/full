@@ -40,7 +40,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 #EXTINF: -1  group-title="ASTRO" tvg-id="1105" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg", Astro Prima CH105
 
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1106" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg", Astro Oasis CH106
 
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -61,7 +61,7 @@ http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891752
 #EXTINF: -1  group-title="ASTRO" tvg-id="1113" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png", Astro Naura CH113
 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1404" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", BOO CH404
 
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -70,7 +70,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1114" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png", Al-Hijrah CH114
 
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891754
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1116" tvg-name="Colors Hindi" tvg-logo="https://telegra.ph/file/789ea2e21fef48a488fe4.png", Colors Hindi HD
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891755
@@ -109,7 +109,7 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891774
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1304" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png", Astro Xiao Tai Yang HD CH304
 
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1305" tvg-logo="https://telegra.ph/file/b94cba3cc1bea6f90ff7e.png", TVB Classic CH305
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891779
@@ -118,7 +118,7 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891779
 http://iptv.tvmalaysia.cc:80/624850/624850/6701
 #EXTINF: -1  group-title="ASTRO" tvg-id="1307" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png", Astro Shuang Xing 双星台 CH307
 
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891781
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png", Astro Quan Jia 全佳 CH308
 
 http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
@@ -139,16 +139,14 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891790
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891758
 #EXTINF: -1  group-title="ASTRO" tvg-id="1319" tvg-logo="https://telegra.ph/file/0ab3762da376a192b0822.png", TVB Xing He CH319
 
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1320" tvg-logo="https://telegra.ph/file/aaad88bee4d7c2b20edd8.png", TVBS Asia HD CH320
 
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891792
-#EXTINF: -1 tvg-id="1319"  group-title="ASTRO"  tvg-logo="https://telegra.ph/file/51271889e52b820f079a3.png", TVB Xing He 星河 CH319
 
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891782
 #EXTINF: -1  group-title="ASTRO" tvg-id="1309" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png", Celestial Movies 天映频道 CH309
 
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #
 #EXTINF: -1 group-title="ASTRO"  tvg-id="1310" tvg-logo="https://telegra.ph/file/63f82b6d600903af36faa.png", TVB Jade CH310 [Backup]
 
@@ -194,12 +192,9 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891806
 #EXTINF: -1  group-title="ASTRO" tvg-id="1401" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png", Hits Movie CH401
 
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF: -1  group-title="ASTRO" tvg-id="1411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png", HBO [Malay Sub] CH405
-
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
 #EXTINF: -1  group-title="ASTRO" tvg-id="1411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png", HBO 
 
-https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891811
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1411" tvg-logo="https://telegra.ph/file/b9c6a803bd2155fea86a3.png", HBO USA FHD [EAST]
 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
@@ -254,7 +249,7 @@ httphttps://link.zozotv.xyz:443/Freemium4/unlimited99/152
 
 #EXTINF: -1  group-title="ASTRO" tvg-id="1550" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png", Nat Geo Wild CH550
 
-https://link.zozotv.xyz:443/Freemium4/unlimited99/122
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF: -1  group-title="ASTRO" tvg-id="1551" tvg-logo="https://telegra.ph/file/43286c3eb21cb8c780758.png", Nat Geo CH551
 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
