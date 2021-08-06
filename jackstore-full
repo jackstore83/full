@@ -2,8 +2,178 @@
 #EXTM3U 
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="JACKSTORE",TV1
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014478
 
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="JACKSTORE",TV2
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014479
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="JACKSTORE",TV3
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014481
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="JACKSTORE",NTV7
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014483
+
+#EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="JACKSTORE",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="JACKSTORE",TV9
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014486
+
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="JACKSTORE",Drama Sangat
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014545
+
+#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="JACKSTORE",AL Hijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Awani.my" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="JACKSTORE",Astro Awani
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014517
+
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="JACKSTORE",Naura
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014538
+
+
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Prima
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014512
+
+#EXTINF:-1 tvg-id="Ria.my" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Ria
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014507
+
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="Astro Warna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Warna
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014509
+
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Citra
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014510
+
+#EXTINF:-1 tvg-id="Ceria.my" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Ceria
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014641
+
+#EXTINF:-1 tvg-id="Oasis.my" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="JACKSTORE",Astro Oasis
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014508
+
+#EXTINF:-1 tvg-id="AEC.my" tvg-name="Astro AEC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png" tvg-chno="17" channel-id="17" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro AEC
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014523
+
+
+#EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="JACKSTORE",TVIKIM
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014492
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Astro Colours Hindi" tvg-logo="https://static.epg.best/in/Colors.in.png" tvg-chno="18" channel-id="18" tvg-group="MY/SG" group-title="JACKSTORE",Astro Colours Hindi
+http://fr-c.movply.stream/hls/Colors.m3u8
+
+
+#EXTINF:-1 tvg-id="GoShop.my" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="JACKSTORE" group-title="JACKSTORE",Astro Go
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014493
+
+
+#EXTINF:-1 tvg-id="SuperSport.my" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="JACKSTORE",RTM Sports HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/146
+
+#EXTINF:-1 tvg-id="Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" tvg-chno="44" channel-id="44" group-title="JACKSTORE",Astro Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
+
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg" tvg-chno="23" channel-id="23" group-title="JACKSTORE",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="24" channel-id="24" group-title="JACKSTORE",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014495
+
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" tvg-chno="25" channel-id="25" group-title="JACKSTORE",Channel U
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014496
+
+
+#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" tvg-chno="26" channel-id="26" group-title="JACKSTORE",Suria
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
+https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
+
+#EXTINF:-1 tvg-id="Vasantham.sg" tvg-name="Vasantham" tvg-logo="https://static.epg.best/sg/Vasantham.sg.png" tvg-chno="27" channel-id="27" group-title="JACKSTORE",Vasantham
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014476
+
+#EXTINF:-1 tvg-id="ChannelNewsAsia.sg" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MY/SG" group-title="JACKSTORE",Channel NewsAsia
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014497
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-chno="29" channel-id="29" tvg-group="News" group-title="JACKSTORE",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://static.epg.best/kr/ArirangTV.kr.png" tvg-chno="31" channel-id="31" tvg-group="JACKSTORE" group-title="JACKSTORE",Arirang TV
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014499
+
+#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="Bloomberg" tvg-logo="https://static.epg.best/gr/Bloomberg.gr.png" tvg-chno="32" channel-id="32" tvg-group="JACKSTORE" group-title="JACKSTORE",Bloomberg
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-name="CGTN" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png" tvg-chno="33" channel-id="33" tvg-group="JACKSTORE" group-title="JACKSTORE",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="WRDW.us" tvg-name="DW" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-chno="34" channel-id="34" tvg-group="MYSG" group-title="JACKSTORE",DW
+http://89.106.234.3:80/DW_34_35.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France24" tvg-logo="https://static.epg.best/fr/France24.fr.png" tvg-chno="35" channel-id="35" tvg-group="MYSG" group-title="JACKSTORE",France24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" tvg-chno="36" channel-id="36" tvg-group="MYSG" group-title="JACKSTORE",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RT" tvg-logo="https://static.epg.best/ch/RTS1.ch.png" tvg-chno="37" channel-id="37" tvg-group="News" group-title="JACKSTORE",RT
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" tvg-chno="38" channel-id="38" tvg-group="MYSG" group-title="JACKSTORE",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="NASA TV" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" tvg-chno="39" channel-id="39" tvg-group="MYSG" group-title="JACKSTORE",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="CONtv" tvg-logo="https://static.epg.best/pa/EcoTV.pa.png" tvg-chno="40" channel-id="40" tvg-group="MYSG" group-title="JACKSTORE",CONtv
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="RedBull TV" tvg-logo="https://www.red24artists.com/wp-content/uploads/2017/02/Layla-Anna-Lee-TV-Presenter-redbull-tv-logo-2x.jpg" tvg-chno="41" channel-id="41" tvg-group="JACKSTORE" group-title="JACKSTORE",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="RTB Sukmaindera" tvg-logo="https://static.epg.best/pt/RtpMadeira.pt.png" tvg-chno="43" channel-id="43" group-title="JACKSTORE",RTB Sukmaindera
+https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014490
+
+#EXTINF:-1 tvg-id="" tvg-name="THR GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="45" channel-id="45" radio="true" group-title="JACKSTORE",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinar FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="46" channel-id="46" radio="true" group-title="JACKSTORE",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:-1 tvg-id="" tvg-name="Klasik Nasional FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" tvg-chno="48" channel-id="48" radio="true" group-title="JACKSTORE",Klasik Nasional FM
+https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Era FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="JACKSTORE",Era FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:-1 tvg-id="" tvg-name="Hitz FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-chno="50" channel-id="50" radio="true" group-title="JACKSTORE",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1 tvg-id="" tvg-name="Hot FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" tvg-chno="51" channel-id="51" radio="true" group-title="JACKSTORE",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-id="" tvg-name="THR GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="46" channel-id="46" radio="true" group-title="JACKSTORE",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinar FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="47" channel-id="47" radio="true" group-title="JACKSTORE",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="MALAYSIA", RTM1
 https://m3u-editor.com/serve/6b8bfc70-f676-11eb-969f-a16188069736/350014478
