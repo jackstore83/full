@@ -1,5 +1,4 @@
 ﻿
-#EXTM3U 
 #EXTM3U url-tvg="http://bit.ly/seEPG3" x-tvg-url="http://bit.ly/kodiEPG"
 
 #EXTINF: -1 tvg-id="TV1.my" tvg-name="TV1" tvg-chno="1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="JACKSTORE", TV1
