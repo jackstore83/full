@@ -4622,3 +4622,53 @@ http://51.81.208.129:35461/series/80201033004/324542/6488.mp4
 http://51.81.208.129:35461/series/80201033004/324542/6489.mp4
 #EXTINF:0 CUID="290" tvg-name="Through the Darkness 2022 English Subtitles Korean Drama S01E12 " tvg-logo="https://i.mydramalist.com/2K8BR_4f.jpg" group-title="Empty name",Through the Darkness 2022 English Subtitles Korean Drama S01E12 
 http://51.81.208.129:35461/series/80201033004/324542/6490.mp4
+#EXTINF:0, tvg-id="chn" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png" tvg-name="KelantanFM"  group-title="🇲🇾Radio",Kelantan FM
+https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yhJJMEVCrU.jpg" tvg-name="RadioKelasik"  group-title="🇲🇾Radio",RadioKelasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png" tvg-name="NasionalFM"  group-title="🇲🇾Radio",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/737344dd8934cc52da9f7f85f2627abb_XL.jpg" tvg-name="TraxxFM"  group-title="🇲🇾Radio",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/ai-fm1.jpg" tvg-name="AiFM"  group-title="🇲🇾Radio",AiFM
+https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png" tvg-name="MinnalFM"  group-title="🇲🇾Radio",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="🇲🇾Radio",ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/KL-FM.jpeg" tvg-name="KLfm"  group-title="🇲🇾Radio",KLFM
+https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://selangorfm.rtm.gov.my/storage/app/uploads/public/610/367/6c3/6103676c39796539215056.png" tvg-name="SELANGORfm"  group-title="🇲🇾Radio",SELANGOR FM
+https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/playlist.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png" tvg-name="SABAH Vfm"  group-title="🇲🇾Radio",SABAH FM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+
+#EXTINF:0, tvg-id="chn" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png" tvg-name="SARAWAKfm"  group-title="🇲🇾Radio",SARAWAK FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
+
+#EXTINF:0, tvg-id="863" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="THR GEGAR"  group-title="🇲🇾Radio",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="856" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="ERA FM"  group-title="🇲🇾Radio",ERA FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:0, tvg-id="857" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="SINAR FM"  group-title="🇲🇾Radio",SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:0, tvg-id="852" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="HITZ FM"  group-title="🇲🇾Radio",HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:0, tvg-id="855" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="MIX FM"  group-title="🇲🇾Radio",MIX FM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:0, tvg-id="854" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="LITE FM"  group-title="🇲🇾Radio",LITE FM
+http://astro1.rastream.com/lite?type=.flv
