@@ -2,7 +2,7 @@
 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
