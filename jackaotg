@@ -9,7 +9,7 @@
 https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Backup)
-# https://akamai2-id.cdn.booyah.live/hls/189237/113859456.m3u8
+https://akamai2-id.cdn.booyah.live/hls/189237/113859456.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
