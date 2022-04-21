@@ -2,6 +2,12 @@
 
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg.xml"
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #EXTINF:-1 tvg-id="AOTGLive1" ch-number="809" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 Astro Supersport Plus HD
