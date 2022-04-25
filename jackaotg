@@ -24,46 +24,46 @@ _------------SPORTS&&&&&&&&&&&&&&&-----------------------...
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_QQ31fxoGIQJs7fUTocCpfY=OIVU/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_TvBfkh6K0UizeiCH8pmY6w=-8m3/dash-wv/jitp-linearwm/601/default_primary.mpd
 # https://live.astradamy.com/astro/s1/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_QQ31fxoGIQJs7fUTocCpfY=OIVU/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_TvBfkh6K0UizeiCH8pmY6w=-8m3/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OhT-sT5hliZa2-ytPvhCOEM=hHOa/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OqWWMQyXqeX9WKhTQn3p_w0=9DqM/dash-wv/jitp-linearwm/2104/default_primary.mpd
 # https://live.astradamy.com/astro/s2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OhT-sT5hliZa2-ytPvhCOEM=hHOa/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OqWWMQyXqeX9WKhTQn3p_w0=9DqM/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgkMzCtUVw2wt1ZxJ8BXQcuI=W7tW/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgttZ6CS5tz20QLQ8dXrUzZs=eCZq/dash-wv/jitp-linearwm/2701/default_primary.mpd
 # https://live.astradamy.com/astro/s3/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgkMzCtUVw2wt1ZxJ8BXQcuI=W7tW/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgttZ6CS5tz20QLQ8dXrUzZs=eCZq/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ9i8NSpTd71v0pIyKblJkd0=VPj7/dash-wv/jitp-linearwm/2506/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ6M-Y-TnDBTLoCoeUX4gnnI=zA9Q/dash-wv/jitp-linearwm/2506/default_primary.mpd
 # https://live.astradamy.com/astro/s4/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ9i8NSpTd71v0pIyKblJkd0=VPj7/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ6M-Y-TnDBTLoCoeUX4gnnI=zA9Q/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,12 +105,12 @@ http://51.79.220.229:8080/freeview/axcestv/988
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_boocq3drZBorewUwfiv910c=50Fl/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bgxWJ4Y0FE_lCGbiXwDFLBg=jmk9/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_boocq3drZBorewUwfiv910c=50Fl/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bgxWJ4Y0FE_lCGbiXwDFLBg=jmk9/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,24 +129,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pc433k7iUajJdqPxF-v3MU=aBtD/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9JLWlbxhFzd08G3Z1JOQFB4=pzuh/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pc433k7iUajJdqPxF-v3MU=aBtD/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9JLWlbxhFzd08G3Z1JOQFB4=pzuh/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9H4U3tw-67mVNVtPuK6Lhhs=G9lE/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Dk_6QokuRUaswVid3bCbCU=XUJd/dash-wv/jitp-linearwm/2700/default_primary.mpd
 # https://live.astradamy.com/astro/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9H4U3tw-67mVNVtPuK6Lhhs=G9lE/dash-wv/jitp-linearwm/2700/default_ott.mpd
-
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Dk_6QokuRUaswVid3bCbCU=XUJd/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 
 
