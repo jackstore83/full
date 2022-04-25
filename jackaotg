@@ -93,9 +93,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 http://95.214.235.93:8880/trmall/trmall0308/1732
 
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+http://axcestv.vip:8080/freeview/axcestv/988
 
 
 
