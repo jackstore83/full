@@ -586,7 +586,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 #EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="KNOWLEDGE",HISTORY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic" group-title="KNOWLEDGE" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 NATIONAL GEOGRAPHIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/600
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
