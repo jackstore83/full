@@ -128,7 +128,7 @@ http://axcestv.vip:8080/freeview/axcestv/988
 
 
 
-#EXTINF:-1 group-title="ASTRO tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bhXU2U4aKFXJ4TQwfl79rJk=9l7F/dash-wv/jitp-linearwm/1004/default_ott.mpd
