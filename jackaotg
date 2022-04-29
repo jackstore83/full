@@ -17,7 +17,7 @@
 https://linears-playback.astro.com.my/vsgN/41xB9XItVsSi_aY-Km766BzbSowx43Q25-0FEGdjLxYtc=DQbK/dash-wv/jitp-linearwm/2400/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
+EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2403
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=706 
@@ -107,7 +107,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
 
-
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 http://95.214.235.93:8880/trmall/trmall0308/1732
 
@@ -118,6 +117,15 @@ http://axcestv.vip:8080/freeview/axcestv/988
 http://axcestv.vip:8080/freeview/axcestv/988
 
 
+
+
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+
+EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
+http://iptv12k.com:35461/8022022301/468985/743
 
 
 
@@ -146,6 +154,10 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CctkNA2Il-z-yW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9AzNVKO9VwsZlES-Hsebrto=hAhT/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
