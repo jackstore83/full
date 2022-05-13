@@ -20,7 +20,6 @@
 https://linears-playback.astro.com.my/vsg/41gvfhXLK1ZSJ1JKd_krpcXf6M2W6FYnNJOYG5PuW1OXM=12Vx/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
-
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
@@ -30,13 +29,10 @@ https://linears-playback.astro.com.my/vsg/41laFh6tla4EULBUXVD6GYj7LKCmRWCAAuC7bj
 
 
 
-
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41laFh6tla4EULBUXVD6GYj7LKCmRWCAAuC7bjWeIBhw4=y-Q7/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
-
+https://linears-playback.astro.com.my/vsg/41laFh6tla4EULBUXVD6GYj2f1V1gZIzROXfwCBmlEV4Y=Xfps/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 
 
@@ -50,7 +46,6 @@ https://linears-playback.astro.com.my/vsg/41laFh6tla4EULBUXVD6GYj7LKCmRWCAAuC7bj
 https://linears-playback.astro.com.my/vsg/41i_c9T1QvzEjT1R_sSVT7Bw7VwqMpEfIiM9pKvrsdKdw=O5FN/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 
-
 ---------------------CHINESE----------------------------------------------
 
 
@@ -59,7 +54,6 @@ https://linears-playback.astro.com.my/vsg/41i_c9T1QvzEjT1R_sSVT7Bw7VwqMpEfIiM9pK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
 https://linears-playback.astro.com.my/vsg/41yMA52zjq6HM_g29TJMr52c0edXjXyKZV89wY5Zlkq3w=-RV4/dash-wv/jitp-linearwm/2400/default_ott.mpd
-
 
 
 
@@ -86,12 +80,10 @@ https://linears-playback.astro.com.my/vsg/410SmLFpuZazpwFzCVm0HlNNegMiL1St3k6gnm
 
 
 
-
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 https://linears-playback.astro.com.my/vsg/41bGVBLHvGZYyR3Y3F9I7f9kYSzQBbzFqsOqisSjHgf3U=Xl6S/dash-wv/jitp-linearwm/2104/default_ott.mpd
-
 
 
 
@@ -106,7 +98,6 @@ https://linears-playback.astro.com.my/vsg/41_5EKK4SKhdrP5mxx6Wwl9a1Jr0Ih5500UrQ8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 https://linears-playback.astro.com.my/vsg/41P8-AKyDYMWwVbB48MBSJHvDelKvKCgfIwZLPk54Hck4=Zsj4/dash-wv/jitp-linearwm/2506/default_ott.mpd
-
 
 
 
