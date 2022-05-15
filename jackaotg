@@ -62,9 +62,6 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 
 
 
-
-
-
 _---_-----------------------------SPORTS---------------------
 
 
@@ -125,19 +122,10 @@ http://139.99.97.249:8080/freeview/axcestv/626
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
@@ -277,12 +265,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 
 
-
-
-
-
-
-
 ----------------------------INDIAN CHANNEL-------------------------------------------------
 #EXTINF:-1 tvg-id="ColorsHD" group-title="INDIAN" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -339,36 +321,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 EXTINF:-1 group-title="INDIAN"g-id="AstroVaanavil"g-chno="AstroVaanavil"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil  
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
@@ -421,33 +373,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 EXTINF:-1g-id="BollyOneHD" ch-number="BollyOneHD"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="INDIAN",251 ABO BollyOne 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -831,9 +756,6 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 #EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS",WWE NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
-
-
-
 
 
 
@@ -1640,7 +1562,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 EXTINF: -1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="CHINESE", ASTRO QUANJIA HD
@@ -1651,8 +1572,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
 EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="CHINESE", ASTRO AOD HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
-
-
 
 
 
@@ -1678,12 +1597,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 
 
-
-
-
 #EXTINF: -1 tvg-id="AstroAOD351" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 351 HD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=705
-
 
 
 
@@ -1712,28 +1627,6 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1006
@@ -1755,7 +1648,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5016
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
-
 
 
 
