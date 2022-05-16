@@ -17,7 +17,7 @@ http://iptv12k.com:35461/live/80301051401/878900/5072.ts
 http://iptv12k.com:35461/live/80301051401/878900/743.ts
 #EXTINF: -1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="JACKSTORE TV", DRAMA SANGAT
 http://iptv12k.com:35461/live/80301051401/878900/5997.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ,TV6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="JACKSTORE TV" ,TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF: -1 tvg-id="NTV7" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="JACKSTORE TV", NTV7/DIDIKTV
 http://iptv12k.com:35461/live/80301051401/878900/739.ts
