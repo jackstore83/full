@@ -17,15 +17,15 @@ http://iptv12k.com:35461/live/80301051401/878900/5072.ts
 http://iptv12k.com:35461/live/80301051401/878900/743.ts
 #EXTINF: -1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="JACKSTORE TV", DRAMA SANGAT
 http://iptv12k.com:35461/live/80301051401/878900/5997.ts
-#EXTINF: -1 tvg-id="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="JACKSTORE TV", TV6
-https://m3u-editor.com/serve/gvsdvasdvssd/408758888
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ,TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF: -1 tvg-id="NTV7" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="JACKSTORE TV", NTV7/DIDIKTV
 http://iptv12k.com:35461/live/80301051401/878900/739.ts
 #EXTINF: -1 tvg-id="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="JACKSTORE TV", 8TV
 http://iptv12k.com:35461/live/80301051401/878900/738.ts
 #EXTINF: -1 tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="JACKSTORE TV", TV9
 http://iptv12k.com:35461/live/80301051401/878900/737.ts
-#EXTINF: -1 tvg-id="chn" tvg-name="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="JACKSTORE TV", Suria
+#EXTINF: -1 tvg-id="chn" tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="JACKSTORE TV", Suria
 http://iptv12k.com:35461/live/80301051401/878900/4032.ts
 #EXTINF: -1 tvg-id="501" tvg-name="AWANI" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="JACKSTORE TV", ASTRO AWANI HD
 http://iptv12k.com:35461/80301051401/878900/724
