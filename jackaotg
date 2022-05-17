@@ -2549,7 +2549,7 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Events/Astro25-Concert.mp4&raw=true&t
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b27bea55aa0f4b4d9955f7587a30910&key=07350898db92952d15dcd6ef1a956a8a
 https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e192fc4a-9f1e-56ea-ace3-2ce0181a9650/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_IVP_LAND_448x252_20211126_82221.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 1
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_IVP_LAND_448x252_20211126_82221.jpg" group-title="VOD",Minggu 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.1.1080p.H264-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
 #EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFJ_IVP_LAND_448x252_20211126_82249.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 2
