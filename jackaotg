@@ -96,13 +96,13 @@ http://iptv12k.com:35461/live/80201051217/424567/706.ts
 _---_-----------------------------SPORTS---------------------
 
 
+
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131970
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704303
-https://Astro.kpsboyserver.com/AstroSP1.mpd
+# https://linears-playback.astro.com.my/vsg/41EYOIqwRu3ux82k6lgqo-_bDE6ReYB0xXstOUime2PkU=K6J5/dash-wv/jitp-linearwm/601/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
 
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
