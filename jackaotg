@@ -97,11 +97,17 @@ _---_-----------------------------SPORTS---------------------
 
 
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
+EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # https://linears-playback.astro.com.my/vsg/41EYOIqwRu3ux82k6lgqo-_bDE6ReYB0xXstOUime2PkU=K6J5/dash-wv/jitp-linearwm/601/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport  HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+# https://linears-playback.astro.com.my/vsg/41--XC1x_lgL3fqw2UE0W3OjTn0MngIhv3oRqn21mKWYg=wdT4/dash-wv/jitp-linearwm/2104/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 
 
