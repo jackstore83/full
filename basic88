@@ -3,43 +3,41 @@
 
 
 
-#EXTINF: -1 tvg-id="101" tvg-name="TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="JACKSTORE TV", TV1
-https://m3u-editor.com/serve/jackstorevip/585035023
-#EXTINF: -1 tvg-id="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="JACKSTORE TV", TV2
-https://m3u-editor.com/serve/jackstorevip/585035024
-#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="JACKSTORE TV", TV3 SD
-https://m3u-editor.com/serve/jackstorevip/585035025
-#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="JACKSTORE TV", TV3 HD
-https://m3u-editor.com/serve/jackstorevip/585035026
+#EXTINF: -1 tvg-id="TV1.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="JACKSTORE TV", TV1
+http://iptv12k.com:35461/live/80301062102/732099/742.ts
+#EXTINF: -1 tvg-id="TV2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="JACKSTORE TV", TV2
+http://iptv12k.com:35461/live/80301062102/732099/741.ts
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="JACKSTORE TV", TV3 SD
+http://iptv12k.com:35461/live/80301062102/732099/5073.ts
+#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="JACKSTORE TV", TV3 HD
+http://iptv12k.com:35461/live/80301062102/732099/5072.ts
 #EXTINF: -1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="JACKSTORE TV", Awesome TV
-https://m3u-editor.com/serve/jackstorevip/585035027
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=743
 #EXTINF: -1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="JACKSTORE TV", DRAMA SANGAT
-https://m3u-editor.com/serve/jackstorevip/585035028
-#EXTINF: -1 tvg-id="TV6" tvg-logo="https://m3u-editor.com/storage/channel-logos/cfa791f0-ff2a-11eb-a65a-9d4e07d48a88/2584521/463520518.png" group-title="JACKSTORE TV", TV6
-https://m3u-editor.com/serve/jackstorevip/585035029
-#EXTINF: -1 tvg-id="107" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="JACKSTORE TV", NTV7/DIDIKTV
-https://m3u-editor.com/serve/jackstorevip/585035030
+http://iptv12k.com:35461/live/80301062102/732099/5997.ts
+#EXTINF: -1 tvg-id="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="JACKSTORE TV", TV6
+https://m3u-editor.com/serve/gvsdvasdvssd/408758888
+#EXTINF: -1 tvg-id="NTV7" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="JACKSTORE TV", NTV7/DIDIKTV
+http://iptv12k.com:35461/live/80301062102/732099/739.ts
 #EXTINF: -1 tvg-id="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="JACKSTORE TV", 8TV
-https://m3u-editor.com/serve/jackstorevip/585035031
+http://iptv12k.com:35461/live/80301062102/732099/738.ts
 #EXTINF: -1 tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="JACKSTORE TV", TV9
-https://m3u-editor.com/serve/jackstorevip/585035032
+http://iptv12k.com:35461/live/80301062102/732099/737.ts
 #EXTINF: -1 tvg-id="chn" tvg-name="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="JACKSTORE TV", Suria
-https://m3u-editor.com/serve/jackstorevip/585035033
+http://iptv12k.com:35461/live/80301062102/732099/4032.ts
 #EXTINF: -1 tvg-id="501" tvg-name="AWANI" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="JACKSTORE TV", ASTRO AWANI HD
-https://m3u-editor.com/serve/jackstorevip/585035034
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=724
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="JACKSTORE TV", IKLIM
-https://m3u-editor.com/serve/jackstorevip/585035035
-#EXTINF: -1 tvg-id="rtm" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910645/343954873.jpg" group-title="JACKSTORE TV", RTM SPORT
-https://m3u-editor.com/serve/jackstorevip/585035036
-#EXTINF: -1 tvg-id="tvs" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386074.png" group-title="JACKSTORE TV", TVS
-https://m3u-editor.com/serve/jackstorevip/585035037
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910645/343954873.jpg" group-title="JACKSTORE TV", RTM SPORT
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758896.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386074.png" group-title="JACKSTORE TV", TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944540/350014493.png" group-title="JACKSTORE TV", GO SHOP
-https://m3u-editor.com/serve/jackstorevip/585035038
-#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="JACKSTORE TV", Arirang TV
-https://m3u-editor.com/serve/jackstorevip/585035039
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386077.png" group-title="JACKSTORE TV", BERNAMA
-https://m3u-editor.com/serve/jackstorevip/585035040
-#EXTINF: -1 tvg-id="hello.my" tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x536.jpg" group-title="JACKSTORE TV", Hello
-https://m3u-editor.com/serve/jackstorevip/585035041
-#EXTINF: -1 tvg-id="501" tvg-name="AWANI" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="JACKSTORE TV", ASTRO AWANI HD
-https://m3u-editor.com/serve/jackstorevip/585035042
+http://iptv12k.com:35461/live/8022022301/468985/723.ts
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="JACKSTORE TV", Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x536.jpg" group-title="JACKSTORE TV", Hello
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_04.m3u8
