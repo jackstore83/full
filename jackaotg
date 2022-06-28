@@ -1,41 +1,785 @@
-#EXTM3U x-tvg-url="https://bit.ly/jackstorepg"
-
-#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
 
-8
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="KpsboyIPTV.m3u_files/filelist.xml">
+<link rel=Edit-Time-Data href="KpsboyIPTV.m3u_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>KpsboyTv</o:Author>
+  <o:LastAuthor>KpsboyTv</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2022-04-14T05:50:00Z</o:Created>
+  <o:LastSaved>2022-04-14T05:50:00Z</o:LastSaved>
+  <o:Pages>1133</o:Pages>
+  <o:Words>529654</o:Words>
+  <o:Characters>3019034</o:Characters>
+  <o:Lines>25158</o:Lines>
+  <o:Paragraphs>7083</o:Paragraphs>
+  <o:CharactersWithSpaces>3541605</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="KpsboyIPTV.m3u_files/themedata.thmx">
+<link rel=colorSchemeMapping href="KpsboyIPTV.m3u_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-MY</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<title>JACKSTORETV.MY</title>
+<head>
+
+<body lang=EN-MY style='tab-interval:36.0pt' onload="myFunction()">
+ 
+<p hidden JACKSTORETV</p>
 
 
 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
 
-----------------------------------------ASTRO CHANNEL------------------------------------------------------------------
-
-
-
-#EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",ASTRO RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://links.aqfadtv.xyz/ria.mpd
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704165
-https://Astro.kpsboyserver.com/AstroRia.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTRO" tvg-id="104" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ASTRO RIA HD
+https://tv.kpsvpn.com/astroghia.mpd
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA HD 
+https://tv.kpsvpn.com/astroghana.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://links.aqfadtv.xyz/warna.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
-https://Astro.kpsboyserver.com/AstroWarna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="108" group-title="ASTRO" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",ASTRO CITRA HD
+https://tv.kpsvpn.com/astroira.mpd
 
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",ASTRO CITRA HD
+#EXTINF:-1 tvg-id="105" group-title="ASTRO" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://links.aqfadtv.xyz/citra.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704170
-https://Astro.kpsboyserver.com/AstroCitra.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="106" group-title="ASTRO" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD
+https://tv.kpsvpn.com/astroblasis.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="ASTRO",ASTRO BOO HD
+https://links.aqfadtv.xyz/boo.mpd
+https://m3u-editor.com/serve/jackstore/463614339
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+
+
+
+
 
 
 
@@ -43,45 +787,46 @@ https://Astro.kpsboyserver.com/AstroCitra.mpd
 
 ------------------INDIAN-------------------
 
-
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://links.aqfadtv.xyz/vinmeen.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704295
-https://Astro.kpsboyserver.com/AstroVinmeen.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
+#EXTINF:-1 tvg-id="202" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
+https://tv.kpsvpn.com/astrobinme.mpd
 
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen (BACKUP)
+EXTINF:-1 tvg-id="202" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132048
 
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="INDIAN" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
+EXTINF:-1 tvg-id="203" ch-number="203" group-title="INDIAN" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132046
+
+
+
+
+
 
 ---------------------CHINESE----------------------------------------------
 
 
-
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
-https://links.aqfadtv.xyz/aec.mpd
-https://Astro.kpsboyserver.com/AstroAec.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
+#EXTINF:-1 tvg-id="306" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
+https://tv.kpsvpn.com/astroec.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC (BACKUP)
+EXTINF:-1 tvg-id="306" ch-number="306" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132019
 
 
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
+EXTINF:-1 tvg-id="307" ch-number="307" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2403
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132022
 
 
@@ -94,56 +839,43 @@ https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132022
 
 _---_-----------------------------SPORTS---------------------
 
-
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-# https://linears-playback.astro.com.my/vsg/41EYOIqwRu3ux82k6lgqo-_bDE6ReYB0xXstOUime2PkU=K6J5/dash-wv/jitp-linearwm/601/default_ott.mpd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport  HD 
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-# https://linears-playback.astro.com.my/vsg/41--XC1x_lgL3fqw2UE0W3OjTn0MngIhv3oRqn21mKWYg=wdT4/dash-wv/jitp-linearwm/2104/default_primary.mpd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704305
-https://Astro.kpsboyserver.com/AstroSP2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" group-title="SPORTS" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704307
-https://Astro.kpsboyserver.com/AstroSP3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" group-title="SPORTS" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 
 
 
-
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704309
-https://Astro.kpsboyserver.com/AstroSP4.mpd
-
-
-
-
-#EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="http://aqfadtv.astradamy.com/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF: -1 tvg-id="815" group-title="SPORTS" ch-number="815" tvg-logo="https://1.bp.blogspot.com/-G1ybsVj3pVM/YVfh0eGkIwI/AAAAAAAAAFA/24zokUAS_fchmnChJzlGaeiAnac7fA9JgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Astro_Supersport_5.png",815 Astro SuperSport 5 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
@@ -153,81 +885,94 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
 
---------------------------------TV3 CHANNEL----------------------------------------------------
+
+--------------------------------ASTRO----------------------------------------------------
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="ASTRO",ASTRO RIA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131995
 
-
-
-
-
-#EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD BACKUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+EXTINF:-1 tvg-id="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850" group-title="ASTRO",ASTRO WARNA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131997
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+EXTINF:-1 tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355" group-title="ASTRO",ASTRO CITRA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132007
 
 
 
-
-
-#EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD
+EXTINF:-1 tvg-id="105" group-title="ASTRO" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
-https://links.aqfadtv.xyz/prima.mpd
-
-https://m3u-editor.com/serve/jackstore/545107064
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
-https://m3u-editor.com/serve/jackstore/545107064
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704163
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
 
 
-#EXTINF:-1 tvg-id="AstroOasis" group-title="ASTRO" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD
+
+
+EXTINF:-1 tvg-id="106" group-title="ASTRO" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+https://m3u-editor.com/serve/jackstore/463614331 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="ASTRO",ASTRO BOO HD (BACKUP)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+https://links.aqfadtv.xyz/boo.mpd
+https://m3u-editor.com/serve/jackstore/463614339
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="ASTRO",ASTRO RANIA HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 https://links.aqfadtv.xyz/rania.mpd
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="113" ch-number="AstroAura" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/364094372.png" group-title="ASTRO",ASTRO AURA HD
+#EXTINF:-1 tvg-id="113" ch-number="AstroAura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="ASTRO",ASTRO AURA HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
-#EXTINF:-1 tvg-id="GOShopMYTV" group-title="ASTRO" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",ASTRO GOSHOP 
+#EXTINF:-1 tvg-id="303" group-title="ASTRO" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",ASTRO GOSHOP 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="ASTRO ",TV AL-HIJRAH
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="ASTRO ",TV AL-HIJRAH
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="ASTRO",ASTRO CERIA HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+
+
+
 
 
 
@@ -260,7 +1005,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 A
+EXTINF:-1 tvg-id="103" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 A
 https://live.astradamy.com/tv3/index.m3u8
 
 
@@ -269,11 +1014,19 @@ https://Astro.kpsboyserver.com/tv3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 C
+#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 A
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ,TV6
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAYSIA",AWESOME TV
+https://tv.kpsvpn.com/awesome.m3u8
+
+
+#EXTINF:-1  tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA" ,TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="MALAYSIA",8TV
@@ -282,14 +1035,14 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="MALAYSIA",TV ALHIJRAH
+#EXTINF:-1 tvg-id="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MALAYSIA",TV ALHIJRAH
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA" ,TV OKEY
+#EXTINF:-1  tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA" ,TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 
-#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
+#EXTINF:-1 tvg-id="122" ch-number="122" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5021
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
@@ -302,48 +1055,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-ID="105" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png" group-title="ASTRO",ASTRO RIA HD (BACKUP)
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131995
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850" group-title="ASTRO",ASTRO WARNA HD (BACKUP)
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131997
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTINF:-1 tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355" group-title="ASTRO",ASTRO CITRA HD (BACKUP)
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132007
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",ASTRO OASIS HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd 
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",ASTRO PRIMA HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-EXTINF:-1 tvg-id="113" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="MALAYSIA",ASTRO AURA HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="MALAYSIA",ASTRO RANIA HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="ASTRO",ASTRO BOO HD
-https://links.aqfadtv.xyz/boo.mpd
-https://m3u-editor.com/serve/jackstore/463614339
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 
 
@@ -352,127 +1063,131 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
-EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png" group-title="CHINESE", ASTRO XIAO TAI YANG HD
+EXTINF: -1 tvg-logo="https://en.wikipedia.org/wiki/Astro_Xiao_Tai_Yang#/media/File:Astro_XTY_2019.png" group-title="CHINESE", ASTRO XIAO TAI YANG HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
-#EXTINF: -1 tvg-id="AstroAOD351" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 351 HD
+#EXTINF: -1 tvg-id="351" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 351 HD
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132023
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=615ed4bcd8cecca6b9703e54252f8c10&key=84b3495bfb163c17a6cc6cf43b1f02e9
-#EXTINF: -1 tvg-id="AstroAOD352" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 352 HD
+#EXTINF: -1 tvg-id="352" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 352 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
-#EXTINF: -1 tvg-id="AstroAOD353" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 353 HD
+#EXTINF: -1 tvg-id="353" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 353 HD
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132025
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
-#EXTINF: -1 tvg-id="AstroAOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 354 HD
+#EXTINF: -1 tvg-id="354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 354 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 
-#EXTINF: -1 tvg-id="AstroAOD355" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 355 HD
+#EXTINF: -1 tvg-id="355" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="CHINESE", ASTRO AOD 355 HD
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132027
 
-#EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
+#EXTINF:-1 tvg-id="300" ch-number="IQIYI" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1006
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
+https://m3u-editor.com/serve/jackstore/463614352 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShop2" ch-number="303" group-title="CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
+#EXTINF:-1 tvg-id="303" ch-number="303" group-title="CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1005
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba4df7f7152c90246234445b6243f610&key=e8117952182caf38bab3a6db439328a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="CHINESE" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
+#EXTINF:-1 tvg-id="304" ch-number="AstroXiaoTaiYang" group-title="CHINESE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png",304 Astro Xiao Tai Yang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2711
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 # http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="305" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic HD
+#EXTINF:-1 tvg-id="305" ch-number="305" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5016
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
+#EXTINF:-1 tvg-id="308" ch-number="308" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2507
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="CHINESE",309 Celestial Movies HD
+#EXTINF:-1 tvg-id="309" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="CHINESE",309 Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/506
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD
+#EXTINF:-1 tvg-id="310" ch-number="310" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAODHD" ch-number="311" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
+#EXTINF:-1 tvg-id="311" ch-number="311" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2706
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CTIAsia" ch-number="316" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia HD
+#EXTINF:-1 tvg-id="316" ch-number="316" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5017
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="CHINESE" tvg-logo="https://i.postimg.cc/YSLDWW8q/TVBEntertainment-News.png",317 TVB Entertainment News HD
+#EXTINF:-1 tvg-id="317" ch-number="317" group-title="CHINESE" tvg-logo="https://i.postimg.cc/YSLDWW8q/TVBEntertainment-News.png",317 TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5015
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1cd3bd6eb6c49675dc616b30dcf1db10&key=13017770bc552725d1a0ba20fa1a2ddd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
+#EXTINF:-1 tvg-id="319" ch-number="319" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/401
-http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3dd2a2632a196215cc1833487b25b810&key=c3ebe66b4783f3ea4017b63f6b7efe92
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" group-title="CHINESE" tvg-logo="https://aqfadtv.astradamy.com/logos/TVBSAsia.png",320 TVBS Asia HD
+#EXTINF:-1 tvg-id="320" ch-number="320" group-title="CHINESE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",320 TVBS Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/402
-http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df3794ff832e6522834dc113e9584d10&key=b56afec777d088b8b24164274c9c4c46
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CCM" ch-number="321" group-title="CHINESE" tvg-logo="https://aqfadtv.astradamy.com/logos/CCMWhite.png",321 CCM
+#EXTINF:-1 tvg-id="321" ch-number="321" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700",321 CCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/100
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="CHINESE" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 Phoenix Chinese Channel
+#EXTINF:-1 tvg-id="325" ch-number="325" group-title="CHINESE" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 Phoenix Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/400
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f13760c949c41e64763717e96ec46910&key=2a49f6a488f99fe914d5897e27f20c39
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News HD
+#EXTINF:-1 tvg-id="326" ch-number="326" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5009
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ca05d01bbb4bbfa624a34a9d97fca910&key=9e0dee9bf3aa066182f701cec38be004
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
 #EXTINF:-1 tvg-id="333" ch-number="HuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021" group-title=" CHINESE", Astro Hua Hee Dai HD
+https://m3u-editor.com/serve/jackstore/463614349 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
+#EXTINF:-1 tvg-id="335" ch-number="335" group-title="CHINESE" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/403
-http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAOD352" ch-number="352" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
+#EXTINF:-1 tvg-id="352" ch-number="352" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/700
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=615ed4bcd8cecca6b9703e54252f8c10&key=84b3495bfb163c17a6cc6cf43b1f02e9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAOD354" ch-number="354" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
+#EXTINF:-1 tvg-id="354" ch-number="354" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/212
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 
 
@@ -486,61 +1201,62 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 
 ----------------------------INDIAN CHANNEL-------------------------------------------------
-#EXTINF:-1 tvg-id="ColorsHD" group-title="INDIAN" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2611
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
+
+#EXTINF:-1 tvg-id="201" ch-number="201" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2309
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
+#EXTINF:-1 tvg-id="211" ch-number="211" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2310
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
+#EXTINF:-1 tvg-id="212" ch-number="212" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5011
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ChuttiTV" ch-number="213" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
+#EXTINF:-1 tvg-id="213" ch-number="213" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1110
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithiya
+#EXTINF:-1 tvg-id="214" ch-number="214" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithiya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/915
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
-#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
+#EXTINF:-1 tvg-id="221" ch-number="221" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2707
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ColorsTamilHD" ch-number="222" group-title="INDIAN" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
+#EXTINF:-1 tvg-id="222" ch-number="222" group-title="INDIAN" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2101
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
+#EXTINF:-1 tvg-id="223" ch-number="223" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2311
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BollyoneHD" ch-number="251" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD
+
+EXTINF:-1 tvg-id="251" ch-number="251" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD (BACKUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1007
 https://links.aqfadtv.xyz/bollyone.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
+#EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png" group-title="INDIAN",251 BOLLYONE HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 
 
@@ -604,6 +1320,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 https://links.aqfadtv.xyz/boo.mpd
 https://m3u-editor.com/serve/jackstore/463614339
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
@@ -726,10 +1443,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 #EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="KNOWLEDGE",HISTORY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="KNOWLEDGE" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 NATIONAL GEOGRAPHIC
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
+#EXTINF:-1 tvg-id="551" group-title="KNOWLEDGE" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 NATIONAL GEOGRAPHIC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
 
 
@@ -893,9 +1612,11 @@ https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131973
 #EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
-#EXTINF: -1 tvg-id="SPOTV" group-title="SPORTS" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5058
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
+#EXTINF: -1 tvg-id="816" group-title="SPORTS" ch-number="816" tvg-logo="https://scontent.fkul12-1.fna.fbcdn.net/v/t1.18169-1/22308769_1563483717031662_1870733297113111065_n.jpg?stp=dst-jpg_p148x148&_nc_cat=106&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=HqaTXHYb_x8AX83oP6A&_nc_ht=scontent.fkul12-1.fna&oh=00_AT-Tl7RMTpFdLf8npY8YBQR99aFBOwYjvJGgifzCvA27vA&oe=62E137A6",816 SPOTV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -982,7 +1703,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png,Suria
+#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.loli.net/2021/10/03/Ry2KqDvJfWwF8oB.jpg,Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -997,7 +1718,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://www.mediacorp.sg/sites/corporate/files/microsites/blob/15450620/33958cb022b667a37e2f30e04417b08e/thumbnail-oktoliday-data.jpg",oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 
@@ -1060,7 +1781,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802010
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="SCTV.id" group-title="🇮🇩Indonesia"tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
-http://51.81.208.129:35461/80201033004/324542/1811
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1347,8 +2068,8 @@ https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #EXTINF:-1 tvg-ID="NationalGeographicWildAsia.us" group-title="🇮🇩Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",NAT GEO WILD HD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
 #EXTINF:-1 tvg-ID="NationalGeographicAsia.us" group-title="🇮🇩Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",NATIONAL GEOGRAPHIC CHANNEL HD
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
@@ -1754,30 +2475,6 @@ http://39.135.138.60:18890/TVOD/88888910/224/3221225746/index.m3u8
 
 
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png" tvg-name="KelantanFM"  group-title="RADIO",Kelantan FM
-https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yhJJMEVCrU.jpg" tvg-name="RadioKelasik"  group-title="RADIO",RadioKelasik
-https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png" tvg-name="NasionalFM"  group-title="RADIO",Nasional FM
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/737344dd8934cc52da9f7f85f2627abb_XL.jpg" tvg-name="TraxxFM"  group-title="RADIO",Traxx FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/ai-fm1.jpg" tvg-name="AiFM"  group-title="RADIO",AiFM
-https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png" tvg-name="MinnalFM"  group-title="RADIO",Minnal FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="RADIO",ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
-
-#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/KL-FM.jpeg" tvg-name="KLfm"  group-title="RADIO",KLFM
-https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8
-
 #EXTINF:0, tvg-id="chn" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png" tvg-name="KelantanFM"  group-title="🇲🇾Radio",KelantanFM(Kpsboy)
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 
@@ -1787,46 +2484,46 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 #EXTINF:0, tvg-id="chn" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png" tvg-name="NasionalFM"  group-title="🇲🇾Radio",NasionalFM(Kpsboy)
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/737344dd8934cc52da9f7f85f2627abb_XL.jpg" tvg-name="TraxxFM"  group-title="🇲🇾Radio",TraxxFM(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/737344dd8934cc52da9f7f85f2627abb_XL.jpg" tvg-name="TraxxFM"  group-title="🇲🇾Radio",TraxxFM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/ai-fm1.jpg" tvg-name="AiFM"  group-title="🇲🇾Radio",AiFM(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/ai-fm1.jpg" tvg-name="AiFM"  group-title="🇲🇾Radio",AiFM
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png" tvg-name="MinnalFM"  group-title="🇲🇾Radio",MinnalFM(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png" tvg-name="MinnalFM"  group-title="🇲🇾Radio",MinnalFM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="🇲🇾Radio",ASYIKfm(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="🇲🇾Radio",ASYIKfm
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/KL-FM.jpeg" tvg-name="KLfm"  group-title="🇲🇾Radio",KLfm(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/KL-FM.jpeg" tvg-name="KLfm"  group-title="🇲🇾Radio",KLfm
 https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://selangorfm.rtm.gov.my/storage/app/uploads/public/610/367/6c3/6103676c39796539215056.png" tvg-name="SELANGORfm"  group-title="🇲🇾Radio",SELANGORfm(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://selangorfm.rtm.gov.my/storage/app/uploads/public/610/367/6c3/6103676c39796539215056.png" tvg-name="SELANGORfm"  group-title="🇲🇾Radio",SELANGORfm
 https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/playlist.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png" tvg-name="SABAH Vfm"  group-title="🇲🇾Radio",SABAH Vfm(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png" tvg-name="SABAH Vfm"  group-title="🇲🇾Radio",SABAH Vfm
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png" tvg-name="SARAWAKfm"  group-title="🇲🇾Radio",SARAWAKfm(Kpsboy)
+#EXTINF:0, tvg-id="chn" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png" tvg-name="SARAWAKfm"  group-title="🇲🇾Radio",SARAWAKfm
 https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
 
-#EXTINF:0, tvg-id="863" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="THR GEGAR"  group-title="🇲🇾Radio",THR GEGAR(Kpsboy)
+#EXTINF:0, tvg-id="863" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="THR GEGAR"  group-title="🇲🇾Radio",THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 
-#EXTINF:0, tvg-id="856" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="ERA FM"  group-title="🇲🇾Radio",ERA FM(Kpsboy)
+#EXTINF:0, tvg-id="856" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="ERA FM"  group-title="🇲🇾Radio",ERA FM
 http://astro2.rastream.com/era?type=.flv
 
-#EXTINF:0, tvg-id="857" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="SINAR FM"  group-title="🇲🇾Radio",SINAR FM(Kpsboy)
+#EXTINF:0, tvg-id="857" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="SINAR FM"  group-title="🇲🇾Radio",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
-#EXTINF:0, tvg-id="852" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="HITZ FM"  group-title="🇲🇾Radio",HITZ FM(Kpsboy)
+#EXTINF:0, tvg-id="852" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="HITZ FM"  group-title="🇲🇾Radio",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
-#EXTINF:0, tvg-id="855" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="MIX FM"  group-title="🇲🇾Radio",MIX FM(Kpsboy)
+#EXTINF:0, tvg-id="855" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="MIX FM"  group-title="🇲🇾Radio",MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:0, tvg-id="854" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="LITE FM"  group-title="🇲🇾Radio",LITE FM(Kpsboy)
+#EXTINF:0, tvg-id="854" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="LITE FM"  group-title="🇲🇾Radio",LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
 
@@ -2325,6 +3022,26 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/Gerak-Kh
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://aqfadtv.astradamy.com/images/Gerak-Khas-Undercover.png",Episod 15
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Gerak-Khas-Undercover/EP15.mp4&raw=true&type=file.mp4
 
+
+
+
+
+
+				
+<script>				
+				function myFunction() {
+                  location.replace("https://shopee.com.my/kpsboy")
+				  }
+                 </script>
+				 
+</script></noscript><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+	
+</html>
 
 
 
